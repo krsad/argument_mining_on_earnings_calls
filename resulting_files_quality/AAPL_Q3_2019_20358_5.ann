@@ -1,0 +1,43 @@
+ZjJI4fJUBg NON-ARG 2339 2385  I don't want to go into the specific numbers,
+vtwvTqXV2x NON-ARG 1168 1232 Hey, Jim, it's Tim, I'll start with your installed base question
+gbIyTC0Bn7 CLAIM-Fact 1944 2037 The secondary market is very key, and we're doing programs et cetera to try to increase that,
+QEYGw_V7YU CLAIM-Fact 1234 1301 Installed base is a function of upgrades and the time between those
+IHrACbhE7D PREMISE-RealExample 1303 1409 It's a function of the number of switchers coming into the to the iOS, macOS and so forth [indiscernible].
+wFprkKaRt4 PREMISE-RealExample 1410 1528 It's a function of the robustness of the secondary market, which we think overwhelmingly hits an incremental customer.
+PQLoc_rH1Y PREMISE-RealExample 1529 1687 And it's a function still in the emerging markets and somewhat developed markets to a lesser degree of people knew that they’re buying their first smartphone.
+LvMjxNn0uV NON-ARG 1688 1753 There are still quite a few people in the world in that category.
+p4-82qoHhB PREMISE-Other 2038 2121 because we think we wind up hitting a cost number that we don't hit in another way.
+cQu5aBzJ4I CLAIM-Fact 1754 1943 And so, the reason that the installed base doesn't correlate to the 90-day clock is that what's happening underneath the numbers is, switchers are still a very key piece of what's going on.
+uMR7cU5YJB CLAIM-Opinion(view) 2386 2556 but I think you can see readily, mathematically, how the installed base is growing in an environment where the iPhone revenue is declining within a 90-day kind of window.
+LD4xxhh_Vp NON-ARG 2303 2339 And so, that's sort of the equation.
+AxP-NVpDD7 PREMISE-Fact 2121 2243 And the upgrades where people are holding onto their device a bit longer than they were, they're staying in the ecosystem.
+1BsiNrYFAd PREMISE-Fact 2244 2302 And then, you have the people in the new category as well.
+s-D5va6Ttm CLAIM-Fact 2571 2692 And Jim, on OpEx, obviously is very important for us to continue to invest in the business, particularly on the R&D side,
+tqpl5spG9_ PREMISE-Other 2693 2762 because we will always want to bring more innovation into the market.
+3kaCg07tL7 PREMISE-Other 2763 2865 We want to improve the user experience and differentiate our products and services in the marketplace.
+wS7Iz-isUv CLAIM-Reformulated 2866 2898 So, we will continue to do that.
+4nkSpEXPsY CLAIM-Fact 2899 3020 There are some types of investments, of course, that are very strategic for us and they will have long-term implications.
+MG3BfGXdmy PREMISE-RealExample 3130 3172 It requires upfront investment, of course.
+_W6eDRgpDB CLAIM-Policy 3172 3286 As you've seen from this quarter and also from the past, we will continue to run our SG&A portion of OpEx tightly.
+3fymTs0ZCG PREMISE-RealExample 3353 3575 We talked about a lot of new services that we are launching during the fall and Apple Card next month, obviously they will require the appropriate level of marketing and advertising as we launch them to the general public.
+WMtfQSjZcL CLAIM-Reformulated 3287 3352 Of course, we'll continue to invest in marketing and advertising.
+rN_8ylBc0F CLAIM-Opinion(view) 3766 3870 So, we want to continue to be competitive and at the same time we will not under-invest in the business.
+hwJyN06WEl PREMISE-Fact 3575 3765 When you look in total, where we are in terms of our expense to revenue ratio for operating expenses, you know, quite well that we are extremely competitive relative to other tech companies.
+rMbQsShfeY NON-ARG 3884 3900  Thank you, Jim.
+KlCcqjDxbm NON-ARG 3901 3941 Could we have the next question, please?
+R0 SUPPORT ARG1:IHrACbhE7D ARG2:QEYGw_V7YU
+R1 SUPPORT ARG1:wFprkKaRt4 ARG2:QEYGw_V7YU
+R2 SUPPORT ARG1:PQLoc_rH1Y ARG2:QEYGw_V7YU
+R3 SUPPORT ARG1:p4-82qoHhB ARG2:gbIyTC0Bn7
+R4 SUPPORT ARG1:AxP-NVpDD7 ARG2:gbIyTC0Bn7
+R5 SUPPORT ARG1:1BsiNrYFAd ARG2:gbIyTC0Bn7
+R6 SUPPORT ARG1:tqpl5spG9_ ARG2:s-D5va6Ttm
+R7 SUPPORT ARG1:3kaCg07tL7 ARG2:s-D5va6Ttm
+R8 SUPPORT ARG1:MG3BfGXdmy ARG2:4nkSpEXPsY
+R9 SUPPORT ARG1:3fymTs0ZCG ARG2:_W6eDRgpDB
+R10 SUPPORT ARG1:hwJyN06WEl ARG2:_W6eDRgpDB
+ArgQ0 QEYGw_V7YU SPECIFIC_2 PERSUASIVE_2 STRONG_2 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ1 gbIyTC0Bn7 SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 s-D5va6Ttm SPECIFIC_2 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ3 4nkSpEXPsY SPECIFIC_1 PERSUASIVE_1 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ4 _W6eDRgpDB SPECIFIC_2 PERSUASIVE_2 STRONG_1 OBJECTIVE_1 TEMPORALHISTORY_3

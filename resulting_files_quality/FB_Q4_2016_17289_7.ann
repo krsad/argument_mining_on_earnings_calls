@@ -1,0 +1,20 @@
+Fdyse-6KSN NON-ARG 455 523 Sheryl, do you want to take the question on video measurement and...
+GHf770xJpz NON-ARG 544 549 Yeah.
+_gGJxmoojK NON-ARG 567 590 ...how that's evolving?
+91hLLnoPmb NON-ARG 611 616 Yeah.
+ypDqGn5SUf PREMISE-Fact 617 791 So new platforms demand new measurement, and so people are measuring all kinds of different things from viewability to how many people see the ad to how long they run the ad.
+E1GP6Pk1rs CLAIM-Fact 792 917 We're focused on all of these metrics and working hard with third parties and with our advertiser to get those metrics right.
+1pat8P7Jfb CLAIM-Opinion(view) 918 1017 We really believe that at the end of the day what matters the most is all the way through to sales.
+eJ5slydjWP PREMISE-Fact 1018 1156 What matters the most is the A/B test that these people saw ads on Facebook and Instagram, these people didn't, and here's the sales lift.
+ltJOwgfcSO NON-ARG 1344 1359 And then, Mark.
+8nmzzszkWz CLAIM-Reformulated 1157 1326 And all of the other metrics, although important and we're working hard, are proxy metrics, and those metrics are going through a platform shift that we need to work on.
+Xycdg7KewE CLAIM-Fact 1384 1687 And for video search – search is a big priority and a thing that we're working on across all of the different verticals, not just video but also all the posts on Facebook, all of the content that people are selling in Marketplace, the groups that people are joining and sharing and all the news content.
+jOP2OVxWVS PREMISE-Fact 1688 1744 And it's an area that we've been working on for a while.
+YzfoYkuK3u CLAIM-Fact 1745 1782 It's growing steadily and doing well,
+gqGw4fhhDT NON-ARG 1783 1829 and we hope to have more updates on that soon.
+R0 SUPPORT ARG1:ypDqGn5SUf ARG2:1pat8P7Jfb
+R1 SUPPORT ARG1:eJ5slydjWP ARG2:1pat8P7Jfb
+R2 SUPPORT ARG1:jOP2OVxWVS ARG2:Xycdg7KewE
+R3 SUPPORT ARG1:jOP2OVxWVS ARG2:YzfoYkuK3u
+ArgQ1 Xycdg7KewE SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1
+ArgQ2 YzfoYkuK3u SPECIFIC_1 PERSUASIVE_0 STRONG_0 OBJECTIVE_1 TEMPORALHISTORY_-1

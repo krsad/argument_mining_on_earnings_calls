@@ -1,0 +1,15 @@
+LGECDceVhp CLAIM-Fact 1294 1345 In total, it is accretive to company gross margins.
+5XmrEWgCiQ CLAIM-Fact 1416 1525 So, it's a very important business for us in many ways for our ecosystem and for our ability to monetize it. 
+G5OM_Jfxx4 NON-ARG 517 702 Everything that we do does advise everything we do in the future, so we try to learn the best we can and hold [ph] that into our thinking, and we'll obviously do that with this as well.
+4ul0FkDRIL CLAIM-Fact 421 516 We have made some adjustments in India, and we've seen preliminarily some better results there.
+FBCzRIAsVx PREMISE-Fact 1250 1293 Our Services business has multiple streams.
+gUvzGkwpqp PREMISE-Statistic 1346 1415 You've seen the latest -- we're running services margins at over 60%.
+9aQd2L_Aa_ NON-ARG 1525 1767 And so, clearly we will make all the necessary investments to ensure that the new services are successful, and we're really encouraged by the level of customer response that we received so far in anticipation for the launch of these services.
+toQjVnvGRB PREMISE-Fact 1154 1249 Clearly as we add new services, we will need to make the necessary investments to support them.
+yNgYzXkVts NON-ARG 1007 1012 Yeah.
+lnAaTkvddU NON-ARG 1013 1153 Of course, we are supporting both our products and services business and you can see the trajectory of our OpEx over the different quarters.
+gwTLATSVMv NON-ARG 1781 1799  Thank you, Samik.
+wmCltnwOmE NON-ARG 1800 1837 Can we have the next question please.
+R0 SUPPORT ARG1:toQjVnvGRB ARG2:LGECDceVhp
+R1 SUPPORT ARG1:FBCzRIAsVx ARG2:LGECDceVhp
+R2 SUPPORT ARG1:gUvzGkwpqp ARG2:5XmrEWgCiQ
